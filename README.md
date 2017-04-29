@@ -1,4 +1,4 @@
-# read_more_js: A curated list of Javascript ressources
+# A curated list of Javascript ressources
 
 
 ## Tutorials: 
